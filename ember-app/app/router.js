@@ -6,7 +6,6 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function () {
-  this.route('timepath-test-task-response-l');
   this.route('timepath-test-task-response-e',
   { path: 'timepath-test-task-response-e/:id' });
   this.route('timepath-test-task-response-e.new',

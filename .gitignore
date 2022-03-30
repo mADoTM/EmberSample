@@ -3,7 +3,7 @@
 ################################################################################
 
 /ember-app/yarn.lock
-/ember-app/package.json
+/ember-app/package-lock.json
 /.vs/slnx.sqlite
 /.vs/slnx.sqlite-journal
 /.vs/GitTest/v16/.suo
